@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1737756271 source:c:\users\pc\documents\ensem\s1\c\mini-projets\cbc_project\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"linkedlist.h"
+	"cbc.h"
+	"fileio.h"
+
+1736805414 c:\users\pc\documents\ensem\s1\c\mini-projets\cbc_project\include\linkedlist.h
+
+1737589572 source:c:\users\pc\documents\ensem\s1\c\mini-projets\cbc_project\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"linkedlist.h"
+
+1736805655 c:\users\pc\documents\ensem\s1\c\mini-projets\cbc_project\include\cbc.h
+	"linkedlist.h"
+
+1737755139 source:c:\users\pc\documents\ensem\s1\c\mini-projets\cbc_project\src\cbc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cbc.h"
+
+1737589572 source:c:\users\pc\documents\ensem\s1\c\mini-projets\cbc_project\src\fileio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fileio.h"
+	"linkedlist.h"
+
+1737410091 c:\users\pc\documents\ensem\s1\c\mini-projets\cbc_project\include\fileio.h
+	"linkedlist.h"
+
